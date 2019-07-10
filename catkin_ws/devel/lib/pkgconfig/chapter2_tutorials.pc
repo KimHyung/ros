@@ -1,0 +1,8 @@
+prefix=/home/hyungseok_kim/dev/catkin_ws/devel
+
+Name: chapter2_tutorials
+Description: Description of chapter2_tutorials
+Version: 0.0.0
+Cflags: -I/home/hyungseok_kim/dev/catkin_ws/devel/include
+Libs: -L/home/hyungseok_kim/dev/catkin_ws/devel/lib 
+Requires: message_runtime
